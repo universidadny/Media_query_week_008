@@ -5,7 +5,7 @@ https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
 .topnav {
   overflow: hidden;
-  background-color: #2E382E;
+  background-color: #FF9B71;
 
 }
 
@@ -20,12 +20,12 @@ https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 }
 
 .topnav a:hover {
-  background-color: #72A1E5;
+  background-color: #95BF74;
   color: black;
 }
 
 .active {
-  background-color: #1B998B;
+  background-color: #659B5E;
   color: white;
 }
 
